@@ -31,7 +31,7 @@
   color: #fff;
 }
 
-@media (max-width: 620px) {
+@media (max-width: 1000px) {
   .flex {
     flex-direction: column;
     padding: 1rem 1rem 0rem;
@@ -51,8 +51,8 @@
     margin: 0 auto;
   }
 }
-@media (max-width: 1000px) {
+/* @media (max-width: 1000px) {
   .flex {
     flex-direction: column;
   }
-}
+} */
